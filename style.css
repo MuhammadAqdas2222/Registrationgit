@@ -1,0 +1,48 @@
+h1{
+color: rgb(111, 111, 226)
+}
+h1{
+    text-decoration: underline;
+    color:  rgb(111, 111, 226);
+}
+.body {
+    width: 20vw;
+    border: 250vw purple;
+    display:table-cell;
+    align-items: center;
+    padding:1000px ;
+     text-align: left;
+
+    
+}
+.container{
+    padding: 100px;
+    background-color: rgb(111, 111, 226);
+    font-size: large;
+    text-align: justify;
+
+}
+image{
+    align-items:center 
+}
+.submitbutton :hover{
+    opacity: 1;
+}
+p.lastname{
+    text-align: left;
+}
+label{
+    width: 240px;
+    display: inline-block;
+}
+table, th, td {
+    border: 0px solid black;
+    padding: 0px;
+  }
+  table {
+    border-spacing: 1px;
+  }
+  .date{
+      text-align:right;
+
+  }
